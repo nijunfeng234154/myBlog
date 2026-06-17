@@ -3,9 +3,9 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: My Blog
+title: "nibapi's blog"
 subtitle: 'Personal Blog'
-description: 'A personal blog powered by Hexo'
+description: "nibapi's personal blog powered by Hexo"
 keywords: blog,hexo,personal
 author: nijunfeng234154
 language: en
