@@ -24,7 +24,5 @@
     "hexo-server": "^3.0.0",
     "hexo-theme-landscape": "^1.0.0"
   },
-  "devDependencies": {
-    "serverless-finch": "^4.0.4"
-  }
+  "devDependencies": {}
 }
